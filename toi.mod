@@ -1,5 +1,5 @@
 name="End of a New Beginning"
-path="mod/toi/"
+path="C:/Users/aceer/Documents/Paradox Interactive/Hearts of Iron IV/mod/EoaNB/toi/"
 tags={
 	"Alternative History"
 	"Balance"
